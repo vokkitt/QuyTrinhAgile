@@ -1,0 +1,7 @@
+Cài Xampp ==> mở Apache + mySQL 
+Truy cập localhost/phpmyadmin ==> Tạo database tên là ecommerceweb ==> Import file SQL trong đây
+Truy cập localhost/eCommerceSite-PHP để xem web 
+Truy cập localhost/eCommerceSite-PHP/admin để xem trang admin
+
+Email   : admin@mail.com
+Password: Password@123
